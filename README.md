@@ -14,10 +14,11 @@ I am a passionate software developer from Tanzania.
 
 ## Languages and Tools
 
-- Python
-- Dart
-- Javascript
+- Python for django
+- Dart for Flutter
+- Javascript && Typescript
 - Golang
+- C# for dotnet
 
 ## Connect with Me
 
