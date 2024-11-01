@@ -17,7 +17,7 @@ I am a passionate software developer from Tanzania.
 
 - Python for django
 - Dart for Flutter
-- Javascript && Typescript
+- Javascript && Typescript for react and nextjs among other things
 - Golang
 - C# for dotnet
 - A little bit of java 😁
