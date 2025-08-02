@@ -1,4 +1,4 @@
-# Hi there, I'm Herman Kamugisha! 👋
+# Hi there, I'm Herman Paul! 👋
 
 Software Engineer from Tanzania who loves building cool stuff with code.
 
